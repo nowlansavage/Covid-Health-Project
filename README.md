@@ -1,6 +1,6 @@
 # Covid-Health-Project
 This project aims to unveil disparities in healthcare as it relates to Covid-19.\
-In the file path: "Code"\
+In the file path: "Code"
 * The Code for this project is located in here.
 * Any CSV files are saved in the "Resources" folder
 * Any outputs from the code are exported and saved to the "Outputs" Folder
@@ -14,7 +14,7 @@ gkey="YOUR KEY HERE!"
 ckey = "YOUR KEY HERE!"
 ```
 
-## Resources Used for this project/
+## Resources Used for this project
 * Source | Format | What it contained
 * The COVID Tracking Project | CSV | COVID-19 infections and deaths by state, race, and ethnicity
 * US Census | API | Populations and poverty by race and ethnicity
