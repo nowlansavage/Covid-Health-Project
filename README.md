@@ -14,7 +14,7 @@ gkey="YOUR KEY HERE!"
 ckey = "YOUR KEY HERE!"
 ```
 
-##Resources Used for this project/
+## Resources Used for this project/
 * Source | Format | What it contained
 * The COVID Tracking Project | CSV | COVID-19 infections and deaths by state, race, and ethnicity
 * US Census | API | Populations and poverty by race and ethnicity
