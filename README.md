@@ -14,6 +14,12 @@ gkey="YOUR KEY HERE!"
 ckey = "YOUR KEY HERE!"
 ```
 
-1. First list item
-   - First nested list item
-     - Second nested list item
+##Resources Used for this project/
+* Source | Format | What it contained
+* The COVID Tracking Project | CSV | COVID-19 infections and deaths by state, race, and ethnicity
+* US Census | API | Populations and poverty by race and ethnicity
+* NY-Times covid 19 data github | CSV | COVID-19 infections by county 
+* Google | API | State latitude and longitude 
+* Covidcaremap | CSV | US healthcare capacity county 
+* National Center for Health Statistics | CSV | Medicaid Access Rates
+* Kaiser Family Foundation | CSV | Uninsured Rate by State
