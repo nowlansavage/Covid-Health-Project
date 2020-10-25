@@ -1,5 +1,8 @@
 # Covid-Health-Project
 This project aims to unveil disparities in healthcare as it relates to Covid-19.\
+
+![featured image](Code/Outputs/fig.png)
+
 In the file path: "Code"
 * The Code for this project is located in here.
 * Any CSV files are saved in the "Resources" folder
